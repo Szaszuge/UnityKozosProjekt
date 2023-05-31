@@ -1,2 +1,2 @@
 # UnityKozosProjekt
-pont
+Az Ön adatainak védelme fontos a számunkra
